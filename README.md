@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @MatthieuLorier
+- 👀 I’m interested in coding and vfx
+- 🌱 I’m currently learning Libawaita with Python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+<!---
+MatthieuLorier/MatthieuLorier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
